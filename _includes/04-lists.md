@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* When the bell rings
+* When the Sun set
+  * When the dog barks
